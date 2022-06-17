@@ -100,3 +100,35 @@ img {
   color: #f9faf8;
   font-size: 18px;
 }
+
+/* box section */
+
+.cart {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.cart-main {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.box img {
+  width: 160px;
+  height: 160px;
+}
+
+.cart-box-p {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 200px;
+}
+
+.cart-box-p p {
+  text-align: center;
+}
