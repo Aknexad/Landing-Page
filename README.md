@@ -1,2 +1,2 @@
 # landing-page
-A Simpel landing page with flex box
+A Simple landing page with flex box
